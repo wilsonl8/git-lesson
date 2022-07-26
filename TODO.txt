@@ -1,0 +1,5 @@
+Create my first repo (done)
+Add a file to the repo (done)
+Check out the git history (done)
+Rest of the exercise
+View changes
