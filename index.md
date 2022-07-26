@@ -15,4 +15,4 @@ import auto
 ```
 
 ### Ours is the fury
-![](http://www.cardgamedb.com/forums/uploads/5583654c55e9427cf872757b5188ce33.jpg)
+![](www.cardgamedb.com/forums/uploads/5583654c55e9427cf872757b5188ce33.jpg)
